@@ -1,8 +1,8 @@
 - 🖖🏾 Hi, I’m RSA Arjun!
 - 🧭 I’m interested in every inanimate thing.
-- 🚧 I’m currently exploring Data Analytics.
+- 🚧 I’m currently exploring Data Science.
 - 🤝🏽 I’m open to work and actively looking for job.
-- 🤹🏾‍♂️ I'm looking to collaborate with skills including Python, SQL, MS Excel, Tableau, Power BI.
+- 🤹🏾‍♂️ I'm looking to collaborate with AI skills.
 - 📫 You can reach me at rokkamarjun@gmail.com.
 - 🙂 Smile Throughout Your Mile.
 
